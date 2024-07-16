@@ -12,7 +12,7 @@ smtplmail is a drop-in replacement for sendmail, designed to send emails from Li
 
 ## Installation
 
-1. Download the latest release binary from the [Releases](https://github.com/yourusername/smtplmail/releases) page.
+1. Download the latest release binary from the [Releases](https://github.com/teamcoltra/smtplmail/releases) page.
 
 2. Run the setup process as root:
 
@@ -106,8 +106,8 @@ Logs are written to the file specified in the configuration (default: `/var/log/
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. I am still learning Go so I welcome help and advice on best practices. One of the things I was going to do is split the config and mail sending into separate files for better management.
 
 ## License
 
-[Specify your license here]
+Released under the MIT license
